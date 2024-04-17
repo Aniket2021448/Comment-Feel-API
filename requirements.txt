@@ -2,5 +2,6 @@ torch
 transformers
 pydantic
 fastapi
-typing
 uvicorn
+pandas
+googleapiclient
