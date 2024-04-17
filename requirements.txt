@@ -4,4 +4,4 @@ pydantic
 fastapi
 uvicorn
 pandas
-googleapiclient
+google-api-python-client
